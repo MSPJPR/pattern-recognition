@@ -67,3 +67,7 @@ Mobile-First Development: Highlighting how advanced projects can be developed us
 ---
 
 This lightweight, interactive system emphasizes simplicity, accessibility, and the practical application of pattern recognition algorithms in web development. It’s a perfect demonstration of how complex concepts can be made approachable and engaging through creative coding!
+
+---
+site link👇
+https://mspjpr.github.io/pattern-recognition/
